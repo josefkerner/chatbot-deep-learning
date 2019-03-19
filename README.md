@@ -1,11 +1,15 @@
 
-<h1>Chatbot deep learning project in Keras and Spark</h1>
+<h1>Chatbot deep learning project in Keras</h1>
 
-link to data: http://files.pushshift.io/reddit/comments/
+<p>Project consisted of data scraping (Czech language data), preprocessing, modelling and evaluation of results</p>
+<p>Trained on GPU Nvidia Tesla v100</p>
+<h2></h2>
+
+data used: Heureka.cz customer complaints and eshop representatives reactions
 
 used technologies:
 
 Python
-Spark
 Keras
-Elephas
+Tensorflow GPU
+BeautiulSoup
